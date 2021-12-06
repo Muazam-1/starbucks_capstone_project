@@ -1,5 +1,9 @@
 # starbucks_capstone_project
 
+**Medium Link:**
+
+https://medium.com/@muazamarshad5.ma/a-deep-dive-into-starbucks-dataset-bfb429b515f3
+
 **Table of Contents**
 
 1.Installation
