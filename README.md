@@ -48,4 +48,9 @@ o	value: a dictionary consisting of amount spent on the offer, the offer id or r
 The problem to be solved is to analyze the customer behavior towards a particular. So it helps Starbucks in targeting the right customer group with each offer, some customer group might prefer BOGO offers, while others are more inclined towards discounts or some only respond to the offers received through emails and so on.
 For this purpose, the whole task is to be divided into three parts:
 
+1.	Data Exploration, Cleaning and Analysis
+3.	Data Merging
+4.	Machine Learning Classifier
+
+
 
