@@ -1,6 +1,6 @@
 # starbucks_capstone_project
 
-**Medium Link:**
+**Medium Blog Link:**
 
 https://medium.com/@muazamarshad5.ma/a-deep-dive-into-starbucks-dataset-bfb429b515f3
 
