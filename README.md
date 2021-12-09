@@ -1,15 +1,8 @@
 # starbucks_capstone_project
 
-**Medium Blog Link:**
-
-https://medium.com/@muazamarshad5.ma/a-deep-dive-into-starbucks-dataset-bfb429b515f3
-
-**Notebooks Used:**
-
-1. DataProcessing_Starbucks_Sapstone_notebook.ipynb
-2. MachineLearning Model.ipynb
-
 **Table of Contents**
+
+1. Notebooks used
 
 1.Installation
 
@@ -17,9 +10,20 @@ https://medium.com/@muazamarshad5.ma/a-deep-dive-into-starbucks-dataset-bfb429b5
 
 3.Problem to be solved
 
+**Notebooks Used:**
+
+1. DataProcessing_Starbucks_Sapstone_notebook.ipynb
+2. MachineLearning Model.ipynb
+
+
 **Installation**
 
 You need an environment for jupyter notebook. 
+1. pandas
+2. numpy
+3. matplotlib
+4. sklearn
+
 
 **File Descriptions**
 
@@ -61,5 +65,11 @@ For this purpose, the whole task is to be divided into three parts:
 3.	Data Merging
 4.	Machine Learning Classifier
 
+**Medium Blog Link:**
+
+https://medium.com/@muazamarshad5.ma/a-deep-dive-into-starbucks-dataset-bfb429b515f3
+
+**Licensing, Authors, Acknowledgements, etc.**
+Data for coding project was provided by Udacity.
 
 
